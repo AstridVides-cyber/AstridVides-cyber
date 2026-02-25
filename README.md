@@ -26,7 +26,7 @@ My goals are to continuously improve my skills, build impactful projects, and ul
 -  🚀 &nbsp; I'm currently learning Full Stack Web Development 
 -  :computer: &nbsp; Most written code line console.log("hello world"); 
 -  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AstridVides-cyber)
--  📝 &nbsp; Checkout [my Resume](https://drive.google.com/file/d/1O28EJwrZn38accOZB-Nc2bmNpoHPvafW/view?usp=sharing)
+-  📝 &nbsp; Checkout [my Resume](https://drive.google.com/file/d/1XkXspTA6IoWwHW451BB6X-6tUmsYkXY5/view?usp=drive_link)
 &nbsp; &nbsp; &nbsp;
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/astrid-vides-466b99351/) &nbsp;
