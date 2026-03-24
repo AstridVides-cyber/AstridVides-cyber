@@ -8,7 +8,7 @@
 
 I am a passionate *Backend Developer* who loves to code and solve programming challenges. I find joy in conceptualizing web solutions and coming up with new ideas using technology.
 
-I currently reside in San Salvador, El Salvador. I am pursuing my Bachelor's degree in Computer Engineering at the prestigious Universidad Centroamericana José Simeón Cañas (UCA), where I am currently in my 4th year.
+I currently reside in San Salvador, El Salvador. I am pursuing my Bachelor's degree in Computer Engineering at the prestigious Universidad Centroamericana José Simeón Cañas (UCA).
 
 Beyond my learning, I find great satisfaction in sharing my knowledge and skills with others in the tech community. When I have some free time, I enjoy reading technical articles and playing video games.
 
